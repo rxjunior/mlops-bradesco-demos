@@ -1,0 +1,4 @@
+[core]
+    remote = localremote
+['remote "localremote"']
+    url = /home/rxjunior/DEV/Modulo_3/mlops-bradesco-demos/temp
